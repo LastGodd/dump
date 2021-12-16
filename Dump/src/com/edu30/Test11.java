@@ -1,4 +1,4 @@
-package com.edu;
+package com.edu30;
 
 interface Readable {
 	public void readBook();

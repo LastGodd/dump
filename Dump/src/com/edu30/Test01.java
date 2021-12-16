@@ -1,4 +1,4 @@
-package com.edu;
+package com.edu30;
 
 class Product {
 	double price;

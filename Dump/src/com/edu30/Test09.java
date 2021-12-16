@@ -1,4 +1,4 @@
-package com.edu;
+package com.edu30;
 
 class Customer {
 	ElectricAccount acct = new ElectricAccount();
