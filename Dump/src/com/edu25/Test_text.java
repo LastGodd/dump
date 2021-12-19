@@ -89,6 +89,14 @@ public class Test_text {
 	 * -> Java Runtime Environment가 있는 모든 플랫폼에서 실행할 수 있습니다.
 	 * -> 추가 설명하면 바이트 코드는 이미 컴파일이 된 파일이기 때문에 JRE가 있어야 한다
 	 * 
+	 * 74.
+	 * Which two are benefits of polymorphism?
+	 * -> 다형성 장점 두 가지는 무엇입니까?
+	 * C. More dynamic code at runtime
+	 * -> 런타임에 더 많은 동적 코드
+	 * D. More flexible and reusable code
+	 * -> 보다 유연하고 재사용 가능한 코드
+	 * 
 	 * 
 	 * 
 	 * 
